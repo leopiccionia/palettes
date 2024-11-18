@@ -1,0 +1,53 @@
+GIMP Palette
+Name: Heraldica (Legacy)
+Columns: 3
+
+255 255 255   White
+128 128 128   Gray
+  0   0   0   Black
+242 242 242   Argent 1
+204 204 204   Argent 2
+153 153 153   Argent 3
+ 26  26  26   Sable 1
+ 15  15  15   Sable 2
+  0   0   0   Sable 3
+212   0  35   Gules 1
+170   0  28   Gules 2
+128   0  21   Gules 3
+255 212  42   Or 1
+212 170   0   Or 2
+128 102   0   Or 3
+  0 170  68   Vert 1
+  0 128  51   Vert 2
+  0  85  34   Vert 3
+  0  85 212   Azure 1
+  0  68 170   Azure 2
+  0  51 128   Azure 3
+160  44 137   Purpure 1
+120  33 103   Purpure 2
+ 80  22  68   Purpure 3
+160  44  44   Sanguine 1
+120  33  33   Sanguine 2
+ 80  22  22   Sanguine 3
+120  68  33   Tenné 1
+ 80  45  22   Tenné 2
+ 40  23  11   Tenné 3
+170   0  68   Murrey 1
+128   0  51   Murrey 2
+ 85   0  34   Murrey 3
+153 153 153   Cendrée 1
+102 102 102   Cendrée 2
+ 51  51  51   Cendrée 3
+255 127  42   Orange 1
+212  85   0   Orange 2
+128  51   0   Orange 3
+233 198 175   Carnation 1
+211 141  95   Carnation 2
+160  90  44   Carnation 3
+ 95 188 211   Celeste 1
+ 44 137 160   Celeste 2
+ 22  68  80   Celeste 3
+222 135 170   Rose 1
+200  55 113   Rose 2
+120  33  68   Rose 3
+

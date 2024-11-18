@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="175" height="460" version="1.1" viewBox="0 0 175 460" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="10" y="430" width="20" height="20" fill="#f59"/>
+  <rect x="30" y="430" width="20" height="20" fill="#d42a6e"/>
+  <rect x="50" y="430" width="20" height="20" fill="#a04"/>
+  <rect x="10" y="400" width="20" height="20" fill="#0cf"/>
+  <rect x="30" y="400" width="20" height="20" fill="#00aad4"/>
+  <rect x="50" y="400" width="20" height="20" fill="#08a"/>
+  <rect x="10" y="370" width="20" height="20" fill="#e9c6af"/>
+  <rect x="30" y="370" width="20" height="20" fill="#d38d5f"/>
+  <rect x="50" y="370" width="20" height="20" fill="#a05a2c"/>
+  <rect x="10" y="340" width="20" height="20" fill="#f60"/>
+  <rect x="30" y="340" width="20" height="20" fill="#d45500"/>
+  <rect x="50" y="340" width="20" height="20" fill="#a40"/>
+  <rect x="10" y="310" width="20" height="20" fill="#b3b3b3"/>
+  <rect x="30" y="310" width="20" height="20" fill="#808080"/>
+  <rect x="50" y="310" width="20" height="20" fill="#4d4d4d"/>
+  <rect x="10" y="280" width="20" height="20" fill="#a04"/>
+  <rect x="30" y="280" width="20" height="20" fill="#800033"/>
+  <rect x="50" y="280" width="20" height="20" fill="#502"/>
+  <rect x="10" y="250" width="20" height="20" fill="#8c4f26"/>
+  <rect x="30" y="250" width="20" height="20" fill="#64381b"/>
+  <rect x="50" y="250" width="20" height="20" fill="#3c2210"/>
+  <rect x="10" y="220" width="20" height="20" fill="#a02c2c"/>
+  <rect x="30" y="220" width="20" height="20" fill="#782121"/>
+  <rect x="50" y="220" width="20" height="20" fill="#501616"/>
+  <rect x="10" y="190" width="20" height="20" fill="#a02ca0"/>
+  <rect x="30" y="190" width="20" height="20" fill="#782178"/>
+  <rect x="50" y="190" width="20" height="20" fill="#501650"/>
+  <rect x="10" y="160" width="20" height="20" fill="#0055d4"/>
+  <rect x="30" y="160" width="20" height="20" fill="#04a"/>
+  <rect x="50" y="160" width="20" height="20" fill="#003380"/>
+  <rect x="10" y="130" width="20" height="20" fill="#2ca02c"/>
+  <rect x="30" y="130" width="20" height="20" fill="#217821"/>
+  <rect x="50" y="130" width="20" height="20" fill="#165016"/>
+  <rect x="10" y="100" width="20" height="20" fill="#ffd42a"/>
+  <rect x="30" y="100" width="20" height="20" fill="#d4a300"/>
+  <rect x="50" y="100" width="20" height="20" fill="#805e00"/>
+  <rect x="10" y="70" width="20" height="20" fill="#d40023"/>
+  <rect x="30" y="70" width="20" height="20" fill="#aa001c"/>
+  <rect x="50" y="70" width="20" height="20" fill="#800015"/>
+  <rect x="10" y="40" width="20" height="20" fill="#333"/>
+  <rect x="30" y="40" width="20" height="20" fill="#1a1a1a"/>
+  <rect x="50" y="40" width="20" height="20"/>
+ </g>
+ <rect x="10" y="10" width="20" height="20" fill="#f2f2f2"/>
+ <rect x="30" y="10" width="20" height="20" fill="#ccc"/>
+ <rect x="50" y="10" width="20" height="20" fill="#999"/>
+ <text fill="#80808080" font-family="'Fira Sans', sans-serif" font-size="16px" font-weight="bold" stroke-linecap="round" stroke-linejoin="round" xml:space="default"><tspan x="80" y="26">Argent</tspan><tspan x="80" y="56">Sable</tspan><tspan x="80" y="86">Gules</tspan><tspan x="80" y="116">Or</tspan><tspan x="80" y="146">Vert</tspan><tspan x="80" y="176">Azure</tspan><tspan x="80" y="206">Purpure</tspan><tspan x="80" y="236">Sanguine</tspan><tspan x="80" y="266">Tenné</tspan><tspan x="80" y="296">Murrey</tspan><tspan x="80" y="326">Cendrée</tspan><tspan x="80" y="356">Orange</tspan><tspan x="80" y="386">Carnation</tspan><tspan x="80" y="416">Bleu Celeste</tspan><tspan x="80" y="446">Rose</tspan></text>
+</svg>
