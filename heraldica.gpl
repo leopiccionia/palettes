@@ -38,16 +38,15 @@ Columns: 3
 179 179 179   Cendrée 1
 128 128 128   Cendrée 2
  77  77  77   Cendrée 3
-255 102   0   Orange 1
-212  85   0   Orange 2
+255 111  15   Orange 1
+219  88   0   Orange 2
 170  68   0   Orange 3
 233 198 175   Carnation 1
 211 141  95   Carnation 2
 160  90  44   Carnation 3
-  0 204 255   Celeste 1
-  0 170 212   Celeste 2
+ 15 207 255   Celeste 1
+  0 176 219   Celeste 2
   0 136 170   Celeste 3
-255  85 153   Rose 1
-212  42 110   Rose 2
-170   0  68   Rose 3
-
+255 117 186   Rose 1
+215  55 135   Rose 2
+170   0  85   Rose 3
