@@ -3,14 +3,14 @@
  <rect x="10" y="430" width="20" height="20" fill="#ff75ba"/>
  <rect x="30" y="430" width="20" height="20" fill="#d73787"/>
  <rect x="50" y="430" width="20" height="20" fill="#a05"/>
- <rect x="10" y="400" width="20" height="20" fill="#0fcfff"/>
- <rect x="30" y="400" width="20" height="20" fill="#00b0db"/>
- <rect x="50" y="400" width="20" height="20" fill="#08a"/>
+ <rect x="10" y="400" width="20" height="20" fill="#0fc3ff"/>
+ <rect x="30" y="400" width="20" height="20" fill="#00a4db"/>
+ <rect x="50" y="400" width="20" height="20" fill="#0080aa"/>
  <rect x="10" y="370" width="20" height="20" fill="#e9c6af"/>
  <rect x="30" y="370" width="20" height="20" fill="#d38d5f"/>
  <rect x="50" y="370" width="20" height="20" fill="#a05a2c"/>
- <rect x="10" y="340" width="20" height="20" fill="#ff6f0f"/>
- <rect x="30" y="340" width="20" height="20" fill="#db5800"/>
+ <rect x="10" y="340" width="20" height="20" fill="#ff7b0f"/>
+ <rect x="30" y="340" width="20" height="20" fill="#db6300"/>
  <rect x="50" y="340" width="20" height="20" fill="#a40"/>
  <rect x="10" y="310" width="20" height="20" fill="#b3b3b3"/>
  <rect x="30" y="310" width="20" height="20" fill="#808080"/>
@@ -27,17 +27,17 @@
  <rect x="10" y="190" width="20" height="20" fill="#a02ca0"/>
  <rect x="30" y="190" width="20" height="20" fill="#782178"/>
  <rect x="50" y="190" width="20" height="20" fill="#501650"/>
- <rect x="10" y="160" width="20" height="20" fill="#0055d4"/>
- <rect x="30" y="160" width="20" height="20" fill="#04a"/>
- <rect x="50" y="160" width="20" height="20" fill="#003380"/>
+ <rect x="10" y="160" width="20" height="20" fill="#0046da"/>
+ <rect x="30" y="160" width="20" height="20" fill="#0036ad"/>
+ <rect x="50" y="160" width="20" height="20" fill="#002680"/>
  <rect x="10" y="130" width="20" height="20" fill="#2ca02c"/>
  <rect x="30" y="130" width="20" height="20" fill="#217821"/>
  <rect x="50" y="130" width="20" height="20" fill="#165016"/>
  <rect x="10" y="100" width="20" height="20" fill="#ffd42a"/>
  <rect x="30" y="100" width="20" height="20" fill="#d4a300"/>
  <rect x="50" y="100" width="20" height="20" fill="#805e00"/>
- <rect x="10" y="70" width="20" height="20" fill="#d40023"/>
- <rect x="30" y="70" width="20" height="20" fill="#aa001c"/>
+ <rect x="10" y="70" width="20" height="20" fill="#da0025"/>
+ <rect x="30" y="70" width="20" height="20" fill="#ad001d"/>
  <rect x="50" y="70" width="20" height="20" fill="#800015"/>
  <rect x="10" y="40" width="20" height="20" fill="#333"/>
  <rect x="30" y="40" width="20" height="20" fill="#1a1a1a"/>
